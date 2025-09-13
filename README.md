@@ -5,6 +5,14 @@
 
 ---
 
+## ✨ Key Highlights
+- 🔐 Firebase Authentication (signup / login) + splash screen  
+- 👥 Two panels: **User** (submit tasks, view personal analytics) and **Admin** (review submissions, monitor employees)  
+- 📝 Task fields: Name, Department, Date (auto), Task Assigned, Work Description, Status, Rating, Issue, Time Spent  
+- 📈 Analytics: Number of Tasks vs Date, Time Spent per Task vs Date, and more interactive graphs  
+- ⚡ Clean UI, toast feedback, and smooth UX
+- 
+
 ## 📸 Screenshots — gallery & explanations
 
 <table>
@@ -98,15 +106,3 @@
 
 ---
 
-## 🔁 Quick action for you
-1. Copy this `README.md` content into your repository.  
-2. Replace the `<image src="...">` URLs with the `raw`-hosted paths if you move screenshots into your repo.  
-3. Tweak any copy (your name, repo links, or feature list) and you’re done — the README will display the gallery and explanations beautifully.
-
----
-
-If you want, I can now:
-- convert these images into a small `assets/screenshots/` structure with recommended filenames, OR
-- produce a compact header GIF (login → submit → chart update) to place at the top of the README.
-
-Which would you prefer? 😊
