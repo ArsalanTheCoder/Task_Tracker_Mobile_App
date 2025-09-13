@@ -1,7 +1,7 @@
 # 🚀 Task Tracker Mobile App - ICZ
 
 > Full-fledged Flutter Task Tracker with **beautiful Firebase authentication**, **splash screen**, and **dual panels** (User & Admin).  
-> Users submit daily tasks and monitor progress with interactive graphs; Admins review submissions and monitor team performance.
+> Users submit daily tasks and monitor progress with interactive graphs; Admins review submissions and monitor team performance
 
 ---
 
