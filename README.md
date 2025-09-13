@@ -5,13 +5,23 @@
 
 ---
 
+## 🔎 Key Features — What this app does
+A quick summary of the core capabilities so a reader sees the value immediately: users can sign up and submit daily tasks, visualize progress with rich charts, and admins can monitor team performance and task compliance in real time.
+
+---
+
 ## ✨ Key Highlights
-- 🔐 Firebase Authentication (signup / login) + splash screen  
-- 👥 Two panels: **User** (submit tasks, view personal analytics) and **Admin** (review submissions, monitor employees)  
-- 📝 Task fields: Name, Department, Date (auto), Task Assigned, Work Description, Status, Rating, Issue, Time Spent  
-- 📈 Analytics: Number of Tasks vs Date, Time Spent per Task vs Date, and more interactive graphs  
-- ⚡ Clean UI, toast feedback, and smooth UX
-- 
+
+- 🔐  Firebase Authentication (signup / login) + splash screen.  
+
+- 👥  Two panels: **User** (submit tasks, view personal analytics) and **Admin** (review submissions, monitor employees).  
+
+- 📝  Task fields: **Name**, **Department**, **Date** (auto), **Task Assigned**, **Work Description**, **Status**, **Rating**, **Issue**, **Time Spent**.  
+
+- 📈  Analytics: **Number of Tasks vs Date**, **Time Spent per Task vs Date**, and other interactive graphs for trend analysis.  
+
+- ⚡  Clean UI, toast feedback, smooth UX, and responsive layouts for mobile devices.
+
 
 ## 📸 Screenshots — gallery & explanations
 
@@ -105,4 +115,21 @@
 - **State management** — Provider / Riverpod / BLoC (choose per preference)
 
 ---
+
+## ✅ Quick Start — Run Locally
+
+**Prerequisites:** Flutter installed, Android SDK (or Xcode for iOS), and Firebase project with `google-services.json` (Android) / `GoogleService-Info.plist` (iOS).
+
+**1. Clone**
+```bash
+git clone https://github.com/your-username/Task_Tracker_Mobile_App.git
+cd Task_Tracker_Mobile_App
+android/app/google-services.json
+ios/GoogleService-Info.plist
+build/
+.dart_tool/
+flutter clean
+flutter pub get
+flutter run
+
 
